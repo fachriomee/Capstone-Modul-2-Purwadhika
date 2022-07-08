@@ -64,3 +64,19 @@ Student Purwadhika akan melakukan analisis data, membuat visualisasi, memberikan
 ![14](https://github.com/fachriomee/Capstone-Modul-2-Purwadhika/blob/main/14.jpg)
 - Berikut adalah business question keenam beserta grafik, insight, dan rekomendasinya
 - Business Question ini bertujuan untuk mengetahui metode pembayaran yang sering dilakukan untuk membeli barang tertentu.
+<hr>
+
+![15](https://github.com/fachriomee/Capstone-Modul-2-Purwadhika/blob/main/15.jpg)
+- Business Question ini bertujuan untuk mengetahui apakah besarnya diskon berbanding lurus dengan banyaknya sales penjualan perkategori barang
+- Berikut adalah business question ketujuh beserta grafik, insight, dan rekomendasinya
+<hr>
+
+![Thanks](https://github.com/fachriomee/Capstone-Modul-2-Purwadhika/blob/main/16.jpg)
+- Kritik, saran, dan ajakan kolaborasi dapat disampaikan melalui email atau sosial media pribadi saya. Terima kasih
+<hr>
+
+### *For queries or collaboration, please reach me on my social media below*:
+[Instagram](https://www.instagram.com/fachriome) |
+[LinkedIn](https://www.linkedin.com/in/fachriome/) |
+[Facebook](https://www.facebook.com/kevin.chen.5688476/) |
+📞: (+62)-877 8123 2862
