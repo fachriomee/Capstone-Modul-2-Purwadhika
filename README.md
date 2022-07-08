@@ -78,5 +78,5 @@ Student Purwadhika akan melakukan analisis data, membuat visualisasi, memberikan
 ### *For queries or collaboration, please reach me on my social media below*:
 [Instagram](https://www.instagram.com/fachriome) |
 [LinkedIn](https://www.linkedin.com/in/fachriome/) |
-[Facebook](https://www.facebook.com/kevin.chen.5688476/) |
-📞: (+62)-877 8123 2862
+[Facebook] (https://www.facebook.com/fachriome/) |
+📞: (+62) 858-6910-1892
