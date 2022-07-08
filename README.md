@@ -46,4 +46,21 @@ Student Purwadhika akan melakukan analisis data, membuat visualisasi, memberikan
 - Fungsi agregasi rata-rata dilakukan karena data sales penjualan perbulannya tidak lengkap sebanyak 36 bulan.
 <hr>
 
+![11](https://github.com/fachriomee/Capstone-Modul-2-Purwadhika/blob/main/11.jpg)
+- Berikut adalah business question ketiga beserta grafik, insight, dan rekomendasinya
+- Fungsi Agregat mean digunakan karena jumlah data sales penjualan per tahun tidak full 36 bulan/3 tahun
+<hr>
 
+![12](https://github.com/fachriomee/Capstone-Modul-2-Purwadhika/blob/main/12.jpg)
+- Berikut adalah business question keempat beserta grafik, insight, dan rekomendasinya
+- Business Question ini bertujuan untuk mengetahui kategori barang mana saja yang menjadi top seller dari Juli 2016 hingga Agustus 2018
+<hr>
+
+![13](https://github.com/fachriomee/Capstone-Modul-2-Purwadhika/blob/main/13.jpg)
+- Berikut adalah business question kelima beserta grafik, insight, dan rekomendasinya
+- Business Question ini bertujuan untuk mengetahui berapa total biaya yang dihabiskan oleh customer pada kategori barang tertentu.
+<hr>
+
+![14](https://github.com/fachriomee/Capstone-Modul-2-Purwadhika/blob/main/14.jpg)
+- Berikut adalah business question keenam beserta grafik, insight, dan rekomendasinya
+- Business Question ini bertujuan untuk mengetahui metode pembayaran yang sering dilakukan untuk membeli barang tertentu.
